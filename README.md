@@ -10,8 +10,7 @@ Welcome to crypter version 1.5
 
 - exit       To end this program
 
-# Usage
-- Example
+# Example
 
 >>rot13
 
@@ -25,10 +24,11 @@ Enter amout of rotation or "all" to see all rotation
 
 Jgnnq Yqtnf
 
--(Wordlist)Use for decrypt the hashed text.
--You can add wordlist by add text file with wordlist and rename it to "w" with next number to the exist one.
--XOR, OR, AND use the key as "utf-8".
--rot13, rot47; You can key "all" instead amount of rotation to see all rotation.
--You can key "name" to set or rename your name.
--Be polite with this program.
--Let's try.
+# Tips
+- (Wordlist)Use for decrypt the hashed text.
+- You can add wordlist by add text file with wordlist and rename it to "w" with next number to the exist one.
+- XOR, OR, AND use the key as "utf-8".
+- rot13, rot47; You can key "all" instead amount of rotation to see all rotation.
+- You can key "name" to set or rename your name.
+- Be polite with this program.
+- Let's try.
