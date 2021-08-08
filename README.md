@@ -40,8 +40,8 @@ Enter amout of rotation or "all" to see all rotation
 Jgnnq Yqtnf
 
 # Tips
-- (Wordlist)Use for decrypt the hashed text.
-- You can add wordlist by add text file with wordlist and rename it to "w" with next number to the exist one.
+- /wordlist Use for decrypt the hashed text.
+- You can add wordlist by add text file with wordlist and rename it to "w" with next number to the exist one, then put into /wordlist directory in the same path.
 - XOR, OR, AND use the key as "utf-8".
 - rot13, rot47; You can key "all" instead amount of rotation to see all rotation.
 - You can key "name" to set or rename your name.
