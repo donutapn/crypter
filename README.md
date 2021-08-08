@@ -14,15 +14,15 @@ Welcome to crypter version 1.5
 
 >> rot13
 
-<< Enter the text to rotate
+- Enter the text to rotate
 
 >> Hello World
 
-<< Enter amout of rotation or "all" to see all rotation
+- Enter amout of rotation or "all" to see all rotation
 
 >> 2
 
-<< Jgnnq Yqtnf
+- Jgnnq Yqtnf
 
 # Tips
 - (Wordlist)Use for decrypt the hashed text.
